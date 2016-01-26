@@ -1,0 +1,16 @@
+repo: "responsive-infographic"
+canvasCourse: "467503"
+canvasAssignment: "4198987"
+
+naming: true
+commits: 15
+
+html:
+  - path: "index.html"
+    valid: true
+    bestPractices: true
+
+css:
+  - path: "css/main.css"
+    valid: true
+    bestPractices: true
