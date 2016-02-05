@@ -220,12 +220,20 @@ body {
   padding: 1em 2em;
 }
 
-
 /*-----------------------------------------------transitions and animations */
 .locktop {
-    transition: all 1s ease-in-out;
+    transition: all .5s ease-in-out;
   }
 
 .biglockin:hover .locktop {
-    transform: translate(0, 40px);
+    transform: translate(0, 65px);
+  }
+
+.orangedude {
+  transition: all .5s linear;
+}
+
+.lineupin:hover .orangedude {
+    transform: scale(1.2);
+    transform-origin: bottom;
   }
