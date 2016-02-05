@@ -61,69 +61,69 @@ body {
 
 .st0 {
   clip-path:url(#svgid_2_);
-  fill:#f7af7f;
+  fill: #f7af7f;
   }
 
 .st1 {
   clip-path:url(#svgid_2_);
-  fill:#fdeadd;
+  fill: #fdeadd;
   }
 
 .st2 {
   clip-path:url(#svgid_2_);
-  fill:#facaaa;
+  fill: #facaaa;
   }
 
 .st3 {
-  fill:#a55219;}
+  fill: #a55219;}
 
 .st4 {
-  fill:#7998b1;
+  fill: #7998b1;
   }
 
 .st5 {
-  fill:#f27a2a;
+  fill: #f27a2a;
   }
 
 .st6 {
-  fill:#d86c23;
+  fill: #d86c23;
   }
 
 .st7 {
-  fill:#f59555;
+  fill: #f59555;
   }
 
   .st8 {
-    fill:#f7af7f;
+    fill: #f7af7f;
   }
 
 .st9 {
-  fill:#facaaa;
+  fill: #facaaa;
     }
 
     .st10 {
-      fill:#fdeadd;
+      fill: #fdeadd;
     }
 
     .st11 {
-      fill:none;stroke:#7998b1;
-      stroke-width:3.9929;
-      stroke-miterlimit:10;
+      fill: none;stroke: #7998b1;
+      stroke-width: 3.9929;
+      stroke-miterlimit: 10;
     }
 
     .st12 {
       clip-path:url(#svgid_4_);
-      fill:#f59555;
+      fill: #f59555;
     }
 
     .st13 {
       clip-path:url(#svgid_4_);
-      fill:#ff812c;
+      fill: #ff812c;
     }
 
     .st14 {
       clip-path:url(#svgid_4_);
-      fill:#d86c23;
+      fill: #d86c23;
     }
 
     .st15 {
@@ -134,7 +134,7 @@ body {
     .st16 {
       fill: none;
       stroke: #7998b1;
-      troke-width: 2;
+      stroke-width: 2;
       stroke-miterlimit: 10;
     }
 
@@ -219,3 +219,13 @@ body {
   width: 100%;
   padding: 1em 2em;
 }
+
+
+/*-----------------------------------------------transitions and animations */
+.locktop {
+    transition: all 1s ease-in-out;
+  }
+
+.biglockin:hover .locktop {
+    transform: translate(0, 40px);
+  }
