@@ -28,7 +28,11 @@ body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-color: yellow;
+}
+
+.titlein {
+  width: 100%;
+  left: -30px;
 }
 
 .st0 {
@@ -48,7 +52,10 @@ body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-color: lightgrey;
+}
+
+.biglockin {
+  width:100%
 }
 
 .st0 {
@@ -135,7 +142,11 @@ body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-color: blue;
+  background-color: #e4e8ef;
+}
+
+.lineupin {
+  width:100%;
 }
 
 .st0 {
@@ -165,26 +176,47 @@ body {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-color: grey;
+  background-color: #e4e8ef;
+}
+
+.chartin {
+  width: 100%;
 }
 
 .coin {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-color: purple;
+}
+
+.coinin {
+  width: 100%;
 }
 
 .bands {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-color: orange;
+}
+
+.bandsin {
+  width: 100%;
 }
 
 .lockbottom {
   width: 100%;
   padding: 0;
   margin: 0;
-  background-color: green;
+  background-color: #e4e8ef;
+}
+
+.lockbottom {
+  width: 100%;
+}
+
+
+@media (min-width: 30em) {
+.titlein {
+  left: -30px;
+}
 }
