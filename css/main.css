@@ -205,7 +205,7 @@ body {
 
 .bandsin {
   width: 100%;
-  padding: 0 1em;
+  padding: 1em;
 }
 
 .lockbottom {
@@ -217,12 +217,5 @@ body {
 
 .lockbottomin {
   width: 100%;
-  padding: 0 1em;
-}
-
-@media (min-width: 30em) {
-.titlein {
-
-
-}
+  padding: 1em 2em;
 }
