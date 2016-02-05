@@ -118,3 +118,33 @@ html {
       troke-width: 2;
       stroke-miterlimit: 10;
     }
+
+/*-----------------------------------------------lineup */
+.lineup {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.st0 {
+  fill: #F59555;
+  }
+
+.st1 {
+  fill:#7998B1;
+  }
+
+.st2 {
+  fill:#E7E8EB;
+  }
+
+.st3 {
+  fill:none;
+  }
+
+.st4 {
+  fill:#F09549;
+  }
+
+.st5 { fill:#5C6776;
+}
