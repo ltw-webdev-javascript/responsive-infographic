@@ -10,8 +10,17 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: sans-serif;
 }
 
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
 
 
 /*-----------------------------------------------Title */
@@ -19,6 +28,7 @@ html {
   width: 100%;
   padding: 0;
   margin: 0;
+  background-color: yellow;
 }
 
 .st0 {
@@ -38,6 +48,7 @@ html {
   width: 100%;
   padding: 0;
   margin: 0;
+  background-color: lightgrey;
 }
 
 .st0 {
@@ -124,6 +135,7 @@ html {
   width: 100%;
   padding: 0;
   margin: 0;
+  background-color: blue;
 }
 
 .st0 {
@@ -147,4 +159,32 @@ html {
   }
 
 .st5 { fill:#5C6776;
+}
+
+.chart {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: grey;
+}
+
+.coin {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: purple;
+}
+
+.bands {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: orange;
+}
+
+.lock {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: green;
 }
