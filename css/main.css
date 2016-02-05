@@ -55,7 +55,8 @@ body {
 }
 
 .biglockin {
-  width:100%
+  width:100%;
+  padding: 0 1em;
 }
 
 .st0 {
@@ -147,6 +148,7 @@ body {
 
 .lineupin {
   width:100%;
+  padding: 0 1em;
 }
 
 .st0 {
@@ -181,6 +183,7 @@ body {
 
 .chartin {
   width: 100%;
+  padding: 0 1em;
 }
 
 .coin {
@@ -191,6 +194,7 @@ body {
 
 .coinin {
   width: 100%;
+  padding: 0 1em;
 }
 
 .bands {
@@ -201,6 +205,7 @@ body {
 
 .bandsin {
   width: 100%;
+  padding: 0 1em;
 }
 
 .lockbottom {
@@ -210,13 +215,14 @@ body {
   background-color: #e4e8ef;
 }
 
-.lockbottom {
+.lockbottomin {
   width: 100%;
+  padding: 0 1em;
 }
-
 
 @media (min-width: 30em) {
 .titlein {
-  left: -30px;
+
+
 }
 }
