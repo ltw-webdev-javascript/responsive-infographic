@@ -23,7 +23,7 @@ body {
 }
 
 
-/*-----------------------------------------------Title */
+/*-----------------------------------------------title */
 .title {
   width: 100%;
   padding: 0;
@@ -60,17 +60,17 @@ body {
 }
 
 .st0 {
-  clip-path:url(#SVGID_2_);
+  clip-path:url(#svgid_2_);
   fill:#f7af7f;
   }
 
 .st1 {
-  clip-path:url(#SVGID_2_);
+  clip-path:url(#svgid_2_);
   fill:#fdeadd;
   }
 
 .st2 {
-  clip-path:url(#SVGID_2_);
+  clip-path:url(#svgid_2_);
   fill:#facaaa;
   }
 
@@ -112,22 +112,22 @@ body {
     }
 
     .st12 {
-      clip-path:url(#SVGID_4_);
+      clip-path:url(#svgid_4_);
       fill:#f59555;
     }
 
     .st13 {
-      clip-path:url(#SVGID_4_);
+      clip-path:url(#svgid_4_);
       fill:#ff812c;
     }
 
     .st14 {
-      clip-path:url(#SVGID_4_);
+      clip-path:url(#svgid_4_);
       fill:#d86c23;
     }
 
     .st15 {
-      clip-path:url(#SVGID_4_);
+      clip-path:url(#svgid_4_);
       fill: #a55219;
     }
 
@@ -152,15 +152,15 @@ body {
 }
 
 .st0 {
-  fill: #F59555;
+  fill: #f59555;
   }
 
 .st1 {
-  fill:#7998B1;
+  fill:#7998b1;
   }
 
 .st2 {
-  fill:#E7E8EB;
+  fill:#e7e8eb;
   }
 
 .st3 {
@@ -168,10 +168,10 @@ body {
   }
 
 .st4 {
-  fill:#F09549;
+  fill:#f09549;
   }
 
-.st5 { fill:#5C6776;
+.st5 { fill:#5c6776;
 }
 
 .chart {
