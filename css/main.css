@@ -1,0 +1,265 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+  box-sizing: border-box;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  font-family: sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+
+/*-----------------------------------------------title */
+.title {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.titlein {
+  width: 100%;
+  left: -30px;
+}
+
+.st0 {
+  fill:#5c6776;
+  }
+
+.st1 {
+  fill:#cacdd5;
+  }
+
+.st2 {
+  fill:none;
+  }
+
+/*-----------------------------------------------biglock */
+.biglock {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.biglockin {
+  width:100%;
+  padding: 0 1em;
+}
+
+.st0 {
+  clip-path:url(#svgid_2_);
+  fill: #f7af7f;
+  }
+
+.st1 {
+  clip-path:url(#svgid_2_);
+  fill: #fdeadd;
+  }
+
+.st2 {
+  clip-path:url(#svgid_2_);
+  fill: #facaaa;
+  }
+
+.st3 {
+  fill: #a55219;}
+
+.st4 {
+  fill: #7998b1;
+  }
+
+.st5 {
+  fill: #f27a2a;
+  }
+
+.st6 {
+  fill: #d86c23;
+  }
+
+.st7 {
+  fill: #f59555;
+  }
+
+  .st8 {
+    fill: #f7af7f;
+  }
+
+.st9 {
+  fill: #facaaa;
+    }
+
+    .st10 {
+      fill: #fdeadd;
+    }
+
+    .st11 {
+      fill: none;stroke: #7998b1;
+      stroke-width: 3.9929;
+      stroke-miterlimit: 10;
+    }
+
+    .st12 {
+      clip-path:url(#svgid_4_);
+      fill: #f59555;
+    }
+
+    .st13 {
+      clip-path:url(#svgid_4_);
+      fill: #ff812c;
+    }
+
+    .st14 {
+      clip-path:url(#svgid_4_);
+      fill: #d86c23;
+    }
+
+    .st15 {
+      clip-path:url(#svgid_4_);
+      fill: #a55219;
+    }
+
+    .st16 {
+      fill: none;
+      stroke: #7998b1;
+      stroke-width: 2;
+      stroke-miterlimit: 10;
+    }
+
+/*-----------------------------------------------lineup */
+.lineup {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #e4e8ef;
+}
+
+.lineupin {
+  width:100%;
+  padding: 0 1em;
+}
+
+.st0 {
+  fill: #f59555;
+  }
+
+.st1 {
+  fill:#7998b1;
+  }
+
+.st2 {
+  fill:#e7e8eb;
+  }
+
+.st3 {
+  fill:none;
+  }
+
+.st4 {
+  fill:#f09549;
+  }
+
+.st5 { fill:#5c6776;
+}
+
+.chart {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #e4e8ef;
+}
+
+.chartin {
+  width: 100%;
+  padding: 0 1em;
+}
+
+.coin {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.coinin {
+  width: 100%;
+  padding: 0 1em;
+}
+
+.bands {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.bandsin {
+  width: 100%;
+  padding: 1em;
+}
+
+.lockbottom {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: #e4e8ef;
+}
+
+.lockbottomin {
+  width: 100%;
+  padding: 1em 2em;
+}
+
+/*-----------------------------------------------transitions and animations */
+.locktop {
+    transition: all .5s ease-in-out;
+  }
+
+.biglockin:hover .locktop {
+    transform: translate(0, 65px);
+  }
+
+.orangedude {
+  transition: all .5s linear;
+  transform: scale()
+}
+
+.lineupin:hover .orangedude {
+    transform: scale(1.2);
+    transform-origin: bottom;
+  }
+
+.coin1 {
+    transition: all .5s ease-in-out;
+    transform: scale(1);
+  }
+
+.coinin:hover .coin1 {
+    transform: scale(1.1);
+    transform-origin: center;
+  }
+
+/*----
+@keyframes {
+
+  0% { transform: rotate(0deg); }
+
+  100% { transform: rotate(360deg); }
+
+}
+
+. {
+  transform-origin: center;
+  animation: spin 5s infinite linear;
+}
+--------*/
