@@ -19,7 +19,7 @@ Using the assets from the Adobe Illustrator infographic you created in David Bro
 
 Follow the rubric’s specifics to make sure you’ve fulfilled all the requirements.
 
-Component | Poor<br>0 | Basic<br>10 | Good<br>15 | Amazing!<br>20
+Component | 0 | 10 | 15 | 20
 --------- | - | -- | -- | --
 Markbot | Markbot not used | | | Passes all Markbot tests
 Responsiveness | Barely or not responsive | Some responsiveness issues on all screens | Works well on small, medium & large screens | Responsiveness perfect on all screens: good text size, good hit areas, etc.
