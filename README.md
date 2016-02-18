@@ -59,7 +59,7 @@ Follow the rubric’s specifics to make sure you’ve fulfilled all the requirem
     <td>Professionalism</td>
     <td>Incomplete and prototype-y, looks cheap</td>
     <td>Feels about halfway complete, could use more effort</td>
-    <td>Has the completeness of a real website, a client would pay for this </td>
+    <td>Has the completeness of a real website, a client would pay for it</td>
     <td>Good enough for Thomas to steal it an call it his own</td>
   </tr>
 </table>
