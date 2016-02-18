@@ -19,13 +19,14 @@ Using the assets from the Adobe Illustrator infographic you created in David Bro
 
 Follow the rubric’s specifics to make sure you’ve fulfilled all the requirements.
 
-Component | 0 | 10 | 15 | 20
---------- | - | -- | -- | --
-Markbot | Markbot not used | | | Passes all Markbot tests
-Responsiveness | Barely or not responsive | Some responsiveness issues on all screens | Works well on small, medium & large screens | Responsiveness perfect on all screens: good text size, good hit areas, etc.
-Content | Feels incomplete | Not enough content to be a complete infographic | Has enough content to represent a whole infographic | Lots of extra, detailed content
-Design & usability | Poorly designed, rushed, not accessible | Non-matching components, poor type choices, poor accessibility | Good design, great type, but poor accessibility | Cohesive design, perfect content size & placement, great accessibility
-Professionalism | Incomplete and prototype-y, looks cheap | Feels about halfway complete, could use more effort | Has the completeness of a real website, a client would pay for this | Good enough for Thomas to steal it an call it his own
+<table>
+  <tr><th>Component</th><th>0</th><th>10</th><th>15</th><th>20</th></tr>
+  <tr><td>Markbot</td><td>Markbot not used</td><td><td></td><td></td>Passes all Markbot tests</td></tr>
+  <tr><td>Responsiveness</td><td>Barely or not responsive</td><td>Some responsiveness issues on all screens <td></td>Works well on small, medium & large screens <td></td>Responsiveness perfect on all screens: good text size, good hit areas, etc.</td></tr>
+  <tr><td>Content</td><td>Feels incomplete</td><td>Not enough content to be a complete infographic <td></td>Has enough content to represent a whole infographic <td></td>Lots of extra, detailed content</td></tr>
+  <tr><td>Design & usability</td><td>Poorly designed, rushed, not accessible</td><td>Non-matching components, poor type choices, poor accessibility <td></td>Good design, great type, but poor accessibility <td></td>Cohesive design, perfect content size & placement, great accessibility</td></tr>
+  <tr><td>Professionalism</td><td>Incomplete and prototype-y, looks cheap</td><td>Feels about halfway complete, could use more effort <td></td>Has the completeness of a real website, a client would pay for this <td></td>Good enough for Thomas to steal it an call it his own</td></tr>
+</table>
 
 ---
 
