@@ -2,84 +2,95 @@
 <!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="student" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 690 180" enable-background="new 0 0 690 180" xml:space="preserve">
-<path opacity="0.35" fill="#ADDBCF" enable-background="new    " d="M668.3,177.1H23.1c-10.9,0-19.6-8.8-19.6-19.6V20.7
-	C3.5,9.8,12.3,1,23.1,1h645.2C679.2,1,688,9.8,688,20.7v136.8C688,168.3,679.2,177.1,668.3,177.1z"/>
-<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="330.2,120 190.4,119 180.8,85.4 176,118.3 165.2,59.3 
-	148.7,158.7 132.2,106 125.1,119.4 82.5,119.8 71.6,95.9 62.8,120.2 39.2,120.2 "/>
-<text transform="matrix(1 0 0 1 12.2305 34.1938)" fill="#A0513D" font-family="'Helvetica-Light'" font-size="12.8023px">Students Enrolled in Baccalaureate Nursing Programs</text>
-<text transform="matrix(1 0 0 1 49.16 92.7571)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="10px">Asian</text>
-<text transform="matrix(1 0 0 1 65.96 92.7571)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="8.15px"> </text>
-<text transform="matrix(1 0 0 1 67.16 92.7571)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="13px">75.5%</text>
-<text transform="matrix(1 0 0 1 174.6868 80.9703)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="11px">African American</text>
-<text transform="matrix(1 0 0 1 232.3868 80.9703)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="8.15px"> / </text>
-<text transform="matrix(1 0 0 1 237.1868 80.9703)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="11px">Black</text>
-<text transform="matrix(1 0 0 1 255.0868 80.9703)" fill="#F16369" font-family="'MyriadPro-Cond'" font-size="11px"> </text>
-<text transform="matrix(1 0 0 1 256.8868 80.9703)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="13px">52.5%</text>
-<text transform="matrix(1 0 0 1 549.0757 27.3301)" fill="#F16369" font-family="'MyriadPro-Cond'" font-size="13.0995px">Hispanic / Latino 7%</text>
-<text transform="matrix(1 0 0 1 502.0088 74.1592)" fill="#F16369" font-family="'MyriadPro-Cond'" font-size="13.0995px">Others 2%</text>
-<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="434,102.9 463.9,102.9 466.8,90.6 469.4,102.9 484.6,102.9 
-	486.4,97.9 488.5,102.9 512.4,102.9 521.1,79.4 529.8,102.9 581.4,103.5 588,38.1 605.9,149.8 618.3,82.9 623,103.5 680.5,102.9 "/>
+<path opacity="0.35" fill="#ADDBCF" d="M668.3,177.1H23.1c-10.9,0-19.6-8.8-19.6-19.6V20.7C3.5,9.8,12.3,1,23.1,1h645.2
+	C679.2,1,688,9.8,688,20.7v136.8C688,168.3,679.2,177.1,668.3,177.1z"/>
+<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="315.2,120 175.4,119 165.8,85.4 161,118.3 150.2,59.3 
+	133.7,158.7 117.1,106 110.1,119.4 67.4,119.8 56.6,95.9 47.7,120.2 24.2,120.2 "/>
+<text transform="matrix(1 0 0 1 447.4295 21.8548)" fill="#A0513D" font-family="'Helvetica-Light'" font-size="9px">Students Enrolled in Baccalaureate Nursing Programs</text>
+<text transform="matrix(1 0 0 1 129.7518 54.2539)"><tspan x="0" y="0" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="10px">Asian</tspan><tspan x="16.8" y="0" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="8.15px"> </tspan><tspan x="18" y="0" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="13px">75.5%</tspan></text>
+<text transform="matrix(1 0 0 1 159.6749 80.9703)"><tspan x="0" y="0" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="11px">African American</tspan><tspan x="57.7" y="0" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="8.15px"> / </tspan><tspan x="62.5" y="0" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="11px">Black</tspan><tspan x="80.4" y="0" fill="#F16369" font-family="'MyriadPro-Cond'" font-size="11px"> </tspan><tspan x="82.2" y="0" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="13px">52.5%</tspan></text>
+<text transform="matrix(1 0 0 1 503.8188 86.536)" fill="#F16369" font-family="'MyriadPro-Cond'" font-size="13.0995px">Hispanic / Latino 7%</text>
+<text transform="matrix(1 0 0 1 479.1714 107.1704)" fill="#F16369" font-family="'MyriadPro-Cond'" font-size="13.0995px">Others 2%</text>
+<polyline fill="none" stroke="#FFFFFF" stroke-miterlimit="10" points="441.5,116.1 471.4,116.1 474.3,103.8 476.9,116.1 
+	492.2,116.1 493.9,111.1 496,116.1 519.9,116.1 528.6,92.6 537.3,116.1 589,116.6 595.5,51.3 613.4,163 625.8,96 630.5,116.7 
+	688,116.1 "/>
 <text transform="matrix(1 0 0 1 306.4622 165.6595)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="27.9597px">from 16% in 1993 to 26% in 2012.</text>
-<path fill="#FFFFFF" d="M311.7,68.1c0,7.1-5.8,12.8-12.9,12.7c-6.7,0-12.1-5.2-12.7-11.7c0.2-0.1,6.9-3.8,4.9-8.1
-	c0,0,10.3,3.2,14.3-0.5c0,0,1.2,6.8,6.3,6.4C311.7,67.2,311.7,67.6,311.7,68.1z"/>
-<path fill="none" d="M286.2,69.1L286.2,69.1"/>
-<path fill="#82321A" d="M311.6,66.8c-5,0.5-6.3-6.4-6.3-6.4c-4,3.8-14.3,0.5-14.3,0.5c2,4.3-4.7,8-4.9,8.1c0-0.4-0.1-0.8,0-1.1
-	c0-7.1,5.8-12.8,12.9-12.7C305.6,55.2,311.1,60.3,311.6,66.8z"/>
-<path fill="#5AC5C8" d="M285.2,104.5c0,0,2.5-20,13-21c0,0,10.6-3,14.4,20.5L285.2,104.5z"/>
+<path fill="#FFFFFF" d="M296.7,68.1c0,7.1-5.8,12.8-12.9,12.7c-6.7,0-12.1-5.2-12.7-11.7c0.2-0.1,6.9-3.8,4.9-8.1
+	c0,0,10.3,3.2,14.3-0.5c0,0,1.2,6.8,6.3,6.4C296.7,67.2,296.7,67.6,296.7,68.1z"/>
+<path fill="none" d="M271.2,69.1C271.2,69.1,271.2,69.1,271.2,69.1"/>
+<path fill="#82321A" d="M296.6,66.8c-5,0.5-6.3-6.4-6.3-6.4c-4,3.8-14.3,0.5-14.3,0.5c2,4.3-4.7,8-4.9,8.1c0-0.4-0.1-0.8,0-1.1
+	c0-7.1,5.8-12.8,12.9-12.7C290.6,55.2,296,60.3,296.6,66.8z"/>
+<path fill="#5AC5C8" d="M270.2,104.5c0,0,2.5-20,13-21c0,0,10.6-3,14.4,20.5L270.2,104.5z"/>
 <g>
-	<circle fill="#ED2426" stroke="#ED2426" stroke-miterlimit="10" cx="304.5" cy="93.2" r="2.7"/>
+	<circle fill="#ED2426" stroke="#ED2426" stroke-miterlimit="10" cx="289.4" cy="93.2" r="2.7"/>
 	<g>
-		<rect x="302.5" y="92.8" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="4" height="0.5"/>
-		<rect x="304.2" y="91.4" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="0.6" height="3.7"/>
+		<rect x="287.4" y="92.8" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="4" height="0.5"/>
+		<rect x="289.2" y="91.4" fill="#FFFFFF" stroke="#FFFFFF" stroke-miterlimit="10" width="0.6" height="3.7"/>
 	</g>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 281.5509 118.4021)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="11px">Male 14%</text>
+	<text transform="matrix(1 0 0 1 266.539 118.4021)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="11px">Male 14%</text>
 </g>
 <g>
 	<g>
-		<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" x1="318.2" y1="74.7" x2="319.2" y2="74.7"/>
+		<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" x1="303.2" y1="71.7" x2="304.2" y2="71.7"/>
 		
-			<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" stroke-dasharray="2.1704,2.1704" x1="321.4" y1="74.7" x2="342" y2="74.7"/>
-		<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" x1="343.1" y1="74.7" x2="344.1" y2="74.7"/>
+			<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" stroke-dasharray="1.9263,1.9263" x1="306.1" y1="71.7" x2="339.8" y2="71.7"/>
+		<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" x1="340.8" y1="71.7" x2="341.8" y2="71.7"/>
 	</g>
 </g>
 <g>
 	<g>
-		<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" x1="318.2" y1="74.7" x2="317.8" y2="75.6"/>
+		<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" x1="303.2" y1="74.7" x2="302.8" y2="75.6"/>
 		
-			<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" stroke-dasharray="1.8135,1.8135" x1="317" y1="77.2" x2="311.4" y2="89.6"/>
-		<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" x1="311" y1="90.5" x2="310.6" y2="91.4"/>
+			<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" stroke-dasharray="1.8135,1.8135" x1="302" y1="77.2" x2="296.4" y2="89.6"/>
+		<line fill="none" stroke="#ADDBCF" stroke-miterlimit="10" x1="296" y1="90.5" x2="295.6" y2="91.4"/>
 	</g>
 </g>
-<path fill="#65C7C4" d="M360.1,98.7l-6.9,6.9c-7.2-9.9-11.4-22-11.4-35.1c0-4.2,0.4-8.4,1.3-12.4l9.4,4.6c-0.5,2.7-0.7,5.5-0.7,8.3
-	C351.8,81.3,354.9,90.8,360.1,98.7z"/>
-<path fill="#F16369" d="M461.2,70.7c0,33-26.8,59.7-59.8,59.7c-19.9,0-37.5-9.7-48.3-24.6l6.9-6.9c8.9,13.3,24.1,22.1,41.4,22.1
-	c27.5,0,49.7-22.3,49.7-49.7c0-27.5-22.3-49.7-49.7-49.7c-24.6,0-45.1,17.9-49,41.4l-9.4-4.6c5.7-27.1,29.7-47.4,58.5-47.4
-	C434.5,10.9,461.2,37.6,461.2,70.7z"/>
 <g>
-	<circle fill="#FFFFFF" cx="404.1" cy="49.9" r="12"/>
-	<path fill="#82321A" d="M387.4,42.5c-0.2,1.7-0.1,3.5,0.3,5.5c0.3,1.7,0.4,3.4,0.1,5c-0.6,3.3-2.5,7.2-9,4.4c0,0,9.9,11.1,16.7,0.7
-		c0,0-4.5-4.1-2.9-10.7c0,0,9.7,3.5,18.2-7.5c0,0-1,1.2-2.9,3.2c0,0,0.2,5.1,8.4,4.7c0,0,0.6,5.8-2.6,9.6c0,0,5.5,11.4,16.1-0.5
-		l-2.2,0.7c-3.4,1.1-7-1.4-7-4.9c0,0,0,0,0-0.1c0-6.3,0.6-18.5-7.5-21.8c-1.7-0.7-5.4-2.7-13.1-1.3C393.1,30.6,388,35.9,387.4,42.5z
-		"/>
+	<path fill="#65C7C4" d="M360.1,101.8l-6.9,6.9c-7.2-9.9-11.4-22-11.4-35.1c0-4.2,0.4-8.4,1.3-12.4l9.4,4.6
+		c-0.5,2.7-0.7,5.5-0.7,8.3C351.8,84.4,354.9,93.9,360.1,101.8z"/>
+	<path fill="#F16369" d="M461.2,73.8c0,33-26.8,59.7-59.8,59.7c-19.9,0-37.5-9.7-48.3-24.6l6.9-6.9c8.9,13.3,24.1,22.1,41.4,22.1
+		c27.5,0,49.7-22.3,49.7-49.7c0-27.5-22.3-49.7-49.7-49.7c-24.6,0-45.1,17.9-49,41.4l-9.4-4.6c5.7-27.1,29.7-47.4,58.5-47.4
+		C434.5,14,461.2,40.8,461.2,73.8z"/>
 	<g>
-		<path fill="#F16369" d="M396.6,28.3c0,0-3.8,2.6-3.3,3.8l2.7,7.5c0,0,7.3-4,15.8-0.3l2.7-7.3c0,0-1-2.2-3.4-3.7l0.9,2.8
-			c0,0-9-1.9-16.5,0.6L396.6,28.3z"/>
-		<path fill="#F7C5C1" d="M393.3,32.1c0,0,10.5-4.7,21.2-0.1l-2.6,7.6c0,0-7-3.7-15.8,0L393.3,32.1z"/>
-		<path fill="#FFFFFF" d="M397.4,30.7c0,0-0.6-4.4,1.4-4.9c0,0,8-1.6,11.1,0.6c0,0,0.5,0,0.4,4.3C410.3,30.7,405.7,29.1,397.4,30.7z
-			"/>
+		<circle fill="#FFFFFF" cx="404.1" cy="53" r="12"/>
+		<path fill="#82321A" d="M387.4,45.7c-0.2,1.7-0.1,3.5,0.3,5.5c0.3,1.7,0.4,3.4,0.1,5c-0.6,3.3-2.5,7.2-9,4.4
+			c0,0,9.9,11.1,16.7,0.7c0,0-4.5-4.1-2.9-10.7c0,0,9.7,3.5,18.2-7.5c0,0-1,1.2-2.9,3.2c0,0,0.2,5.1,8.4,4.7c0,0,0.6,5.8-2.6,9.6
+			c0,0,5.5,11.4,16.1-0.5l-2.2,0.7c-3.4,1.1-7-1.4-7-4.9c0,0,0,0,0-0.1c0-6.3,0.6-18.5-7.5-21.8c-1.7-0.7-5.4-2.7-13.1-1.3
+			C393.1,33.7,388,39,387.4,45.7z"/>
 		<g>
-			<circle fill="#FFFFFF" cx="403.8" cy="27.7" r="2"/>
+			<path fill="#F16369" d="M396.6,31.4c0,0-3.8,2.6-3.3,3.8l2.7,7.5c0,0,7.3-4,15.8-0.3l2.7-7.3c0,0-1-2.2-3.4-3.7l0.9,2.8
+				c0,0-9-1.9-16.5,0.6L396.6,31.4z"/>
+			<path fill="#F7C5C1" d="M393.3,35.2c0,0,10.5-4.7,21.2-0.1l-2.6,7.6c0,0-7-3.7-15.8,0L393.3,35.2z"/>
+			<path fill="#FFFFFF" d="M397.4,33.8c0,0-0.6-4.4,1.4-4.9c0,0,8-1.6,11.1,0.6c0,0,0.5,0,0.4,4.3C410.3,33.8,405.7,32.3,397.4,33.8
+				z"/>
 			<g>
-				<rect x="403.6" y="26.2" fill="#ED2426" width="0.5" height="3.2"/>
-				<rect x="402.3" y="27.3" fill="#ED2426" width="3.2" height="0.5"/>
+				<circle fill="#FFFFFF" cx="403.8" cy="30.8" r="2"/>
+				<g>
+					<rect x="403.6" y="29.4" fill="#ED2426" width="0.5" height="3.2"/>
+					
+						<rect x="403.6" y="29.1" transform="matrix(1.001262e-10 -1 1 1.001262e-10 373.1428 434.5488)" fill="#ED2426" width="0.5" height="3.2"/>
+				</g>
 			</g>
 		</g>
+		<path fill="#FABFB7" d="M384.2,94.2c0,0,3.6-26.3,18.3-27.6c0,0,14.9-3.3,20.4,27.6H384.2z"/>
 	</g>
-	<path fill="#FABFB7" d="M384.2,91.1c0,0,3.6-26.3,18.3-27.6c0,0,14.9-3.3,20.4,27.6H384.2z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 378.7072 105.1415)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="11px">Female: 86%</text>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 172.6851 137.9625)"><tspan x="0" y="0" fill="#D18957" font-family="'Helvetica'" font-size="10px">Percentage of minority students enrolled in </tspan><tspan x="0" y="12" fill="#D18957" font-family="'Helvetica'" font-size="10px">basic RN programs increased</tspan></text>
+<g>
+	<text transform="matrix(1 0 0 1 563.2485 43.244)" fill="#F16369" font-family="'MyriadPro-Cond'" font-size="13.0995px"> Caucasian 72%</text>
+</g>
+<rect x="613.8" y="80" fill="none" width="42.7" height="13.1"/>
+<text transform="matrix(1 0 0 1 613.8107 89.0347)" fill="#F16369" font-family="'MyriadPro-Cond'" font-size="13.0995px">Asian 9%</text>
+<g>
+	<text transform="matrix(1 0 0 1 18.0648 89.059)"><tspan x="0" y="0" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="10px">Hispanic / Latino </tspan><tspan x="52.8" y="0" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="13px">51.5%</tspan></text>
 </g>
 <g>
-	<text transform="matrix(1 0 0 1 378.7072 102.0209)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="11px">Female: 86%</text>
+	<text transform="matrix(1 0 0 1 82.1437 103.5411)" fill="#196B78" font-family="'MyriadPro-Cond'" font-size="10px"> Caucasian 48.5%</text>
 </g>
+<text transform="matrix(1 0 0 1 33.0765 18.1918)"><tspan x="0" y="0" fill="#A0513D" font-family="'Helvetica-Light'" font-size="11px">Percentage of Nursing students that pursue a </tspan><tspan x="0" y="13.2" fill="#A0513D" font-family="'Helvetica-Light'" font-size="11px">Baccalaureate or Higher Education by Ethnicity</tspan></text>
 </svg>
