@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="notebook" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 345 360" enable-background="new 0 0 345 360" xml:space="preserve">
+<g>
+	<path fill="#F3E5E3" stroke="#FFFFFF" stroke-miterlimit="10" d="M319.8,353.7H25.2c-7.7,0-13.9-6.2-13.9-13.9V19.1
+		c0-7.7,6.2-13.9,13.9-13.9h294.5c7.7,0,13.9,6.2,13.9,13.9v320.6C333.7,347.4,327.5,353.7,319.8,353.7z"/>
+	<g>
+		<path fill="none" stroke="#F7C5C1" stroke-miterlimit="10" stroke-dasharray="2.9973,2.9973" d="M301.9,336.6H41.2
+			c-5.8,0-10.5-4.7-10.5-10.5V35.2c0-5.8,4.7-10.5,10.5-10.5h260.7c5.8,0,10.5,4.7,10.5,10.5v290.9
+			C312.4,331.9,307.7,336.6,301.9,336.6z"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 46.4999 62.9998)" fill="#82321A" font-family="'Helvetica-Light'" font-size="15.4845px">Median Nurse Salary by Ethnicity</text>
+<g>
+	<path fill="#FFFFFF" d="M248,203H103.1c-1.5,0-2.6-1.2-2.6-2.6v-89.8c0-1.5,1.2-2.6,2.6-2.6H248c1.5,0,2.6,1.2,2.6,2.6v89.8
+		C250.6,201.8,249.4,203,248,203z"/>
+	<text transform="matrix(1 0 0 1 165.375 160.2312)" fill="#D18957" font-family="'Helvetica-Light'" font-size="15.2872px">Caucasian</text>
+	<text transform="matrix(1 0 0 1 154.418 185.8352)" fill="#D18957" font-family="'Helvetica'" font-size="25.2718px">$70,000</text>
+	<g>
+		<rect x="113" y="145.6" fill="#65C7C4" stroke="#000000" stroke-width="0.2" stroke-miterlimit="10" width="35.1" height="47.9"/>
+		<path fill="#FFFFFF" d="M139.6,164.6c0,5-4.1,9.1-9.1,9c-4.7,0-8.6-3.7-9-8.3c0.1-0.1,4.9-2.7,3.5-5.7c0,0,7.3,2.3,10.1-0.4
+			c0,0,0.9,4.8,4.5,4.5C139.6,164,139.6,164.3,139.6,164.6z"/>
+		<path fill="#82321A" d="M139.6,163.7c-3.6,0.3-4.5-4.5-4.5-4.5c-2.8,2.7-10.1,0.4-10.1,0.4c1.4,3.1-3.3,5.7-3.5,5.7
+			c0-0.3,0-0.5,0-0.8c0-5,4.1-9,9.1-9C135.3,155.5,139.2,159.1,139.6,163.7z"/>
+		<path fill="#ADDBCF" d="M118.7,193.4c0,0,2.5-17.7,11.4-18.6c0,0,9-2.7,12.3,18.6H118.7z"/>
+		<g>
+			<circle fill="#ED2426" stroke="#ED2426" stroke-width="0.4" stroke-miterlimit="10" cx="131.4" cy="182.6" r="2.8"/>
+			<g>
+				
+					<rect x="129.3" y="182.1" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.4" stroke-miterlimit="10" width="4.2" height="0.5"/>
+				
+					<rect x="131.1" y="180.6" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.4" stroke-miterlimit="10" width="0.6" height="3.9"/>
+			</g>
+		</g>
+	</g>
+	<path fill="#F3E5E3" d="M162.9,114.9l24.6,0.1c0,0,9.4,3.4,0.5,7h-25.5C162.5,122.1,154.8,118.5,162.9,114.9z"/>
+</g>
+<g>
+	<path fill="#FFFFFF" d="M250.9,317.6H105.5c-1.5,0-2.6-1.2-2.6-2.6v-90c0-1.5,1.2-2.6,2.6-2.6h145.3c1.5,0,2.6,1.2,2.6,2.6v90
+		C253.5,316.4,252.3,317.6,250.9,317.6z"/>
+	<text transform="matrix(1 0 0 1 181.8837 274.7007)" fill="#D18957" font-family="'Helvetica-Light'" font-size="15.2872px">Asian</text>
+	<text transform="matrix(1 0 0 1 156.3217 300.3804)" fill="#D18957" font-family="'Helvetica'" font-size="25.2718px">$61.000</text>
+	<g>
+		<rect x="115.5" y="260.1" fill="#65C7C4" stroke="#000000" stroke-width="0.2" stroke-miterlimit="10" width="35.2" height="48"/>
+		<g>
+			<path fill="#FED49A" d="M142.2,279.1c0,5-4.1,9.1-9.1,9.1c-4.7,0-8.6-3.7-9-8.3c0.1-0.1,4.9-2.7,3.5-5.8c0,0,7.3,2.3,10.2-0.4
+				c0,0,0.9,4.9,4.5,4.5C142.2,278.5,142.2,278.8,142.2,279.1z"/>
+			<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M124.1,279.8C124.1,279.8,124.1,279.8,124.1,279.8"/>
+			<path fill="#82321A" d="M142.2,278.2c-3.6,0.3-4.5-4.5-4.5-4.5c-2.8,2.7-10.2,0.4-10.2,0.4c1.4,3.1-3.4,5.7-3.5,5.8
+				c0-0.3,0-0.5,0-0.8c0-5,4.1-9.1,9.1-9C137.9,270,141.8,273.6,142.2,278.2z"/>
+		</g>
+		<path fill="#ADDBCF" d="M121.2,307.9c0,0,2.5-17.8,11.4-18.7c0,0,9.1-2.7,12.4,18.7H121.2z"/>
+		<g>
+			<circle fill="#ED2426" stroke="#ED2426" stroke-width="0.4" stroke-miterlimit="10" cx="137.1" cy="297.1" r="2.8"/>
+			<g>
+				<rect x="135" y="296.7" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.4" stroke-miterlimit="10" width="4.2" height="0.5"/>
+				
+					<rect x="136.8" y="295.2" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="0.4" stroke-miterlimit="10" width="0.6" height="3.9"/>
+			</g>
+		</g>
+	</g>
+	<path fill="#F3E5E3" d="M165.5,229.3l24.7,0.1c0,0,9.5,3.4,0.5,7.1h-25.6C165.2,236.5,157.4,232.9,165.5,229.3z"/>
+</g>
+</svg>
