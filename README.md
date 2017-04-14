@@ -1,71 +1,57 @@
+---
+summary: 'Create a responsive infographic website using all your knowledge from the term.'
+time: 'many hours'
+deliverables: '1 HTML file, 1 CSS file (or more), images'
+---
+
 # Responsive infographic
 
-- Approx. completion time: **many hours**
-- Deliverables: **1 HTML file, 1 CSS file (or more), images**
+## Overview
+
+Create a fully responsive & interactive infographic using Javascript, transitions, animations & SVG.
+
+- *Fork this repository.*
+- Use lots of lovely Javascript to add interactivity.
+- Add transitions, animations and SVG fanciness.
+- **Run it through Markbot and make sure it passes all the checks.**
+
+### Work from something that exists
+
+If you’ve previously created an infographic, maybe in David Bromley’s class, you’re welcome to code that.
+
+You could also look at recreating a static image-based infographic you’ve found online if you give the original designer credit.
 
 ---
 
-**Take an infographic created in an earlier class and convert it to a responsive interactive website.**
+## Markbot will expect…
 
-Using the assets from the Adobe Illustrator infographic you created in David Bromley’s class, create a responsive website.
+- Valid HTML following best practices.
+- Valid CSS following best practices.
+- Valid JS following best practices.
+- `css/main.css`, `js/main.js` & `jquery` is linked.
+- That jQuery is used in `main.js`.
+- `animation`, `transition`, `@keyframes`
 
-- You’re welcome to simplify it a little—maybe picking 2–3 of the best bits.
-- There doesn’t need to be animations or transitions yet—but you’re welcome to add them.
-- Try to put as much of the SVG code into your HTML as you can.
+---
+
+## Marking rubric
+
+Below is the rubric of expectations for this project. **You will be assigned a letter grade based on your standing within the rubric.**
+
+| | 0 points | 1 points | 2 points | 3 points |
+| --- | --- | --- | --- | --- |
+| **Functionality** | No functionality, essentially a static image | Some functionality but clearly room for improvement | Good amount of functionality but there are some errors or confusing bits | Amazing amounts of functionality with no errors |
+| **Responsiveness** | Barely or not responsive | Some responsiveness issues on all screens | Works well on small, medium & large screens | Responsiveness perfect on all screens: good text size, good hit areas, etc. |
+| **Content** | Feels incomplete | Not enough content to be a complete infographic | Has enough content to represent a whole infographic | Lots of extra, detailed content |
+| **Design & usability** | Poorly designed, rushed, not accessible | Non-matching components, poor type choices, poor accessibility | Good design, great type, but poor accessibility | Cohesive design, perfect content size & placement, great accessibility |
+| **Professionalism** | Incomplete and prototype-y, looks cheap | Feels about halfway complete, could use more effort | Has the completeness of a real website, a client would pay for it | Good enough for Thomas to steal it an call it his own |
+| **Semantics** | Very little HTML | Basic HTML tags chosen | Good variety and appropriate HTML tags chosen | Excellent demonstration of HTML tags and correct use |
+| **Git & commits** | Bad commit messages | Decent messages | Good messages | Excellent and descriptive commit messages |
+| **Markbot** | Not handed in with Markbot | — | — | Handed in with Markbot |
 
 ---
 
-## Rubric
-
-Follow the rubric’s specifics to make sure you’ve fulfilled all the requirements.
-
-<table>
-  <tr>
-    <th>Component</th>
-    <th>0</th>
-    <th>10</th>
-    <th>15</th>
-    <th>20</th>
-  </tr>
-  <tr>
-    <td>Markbot</td>
-    <td>Markbot not used</td>
-    <td></td>
-    <td></td>
-    <td>Passes all Markbot tests</td>
-  </tr>
-  <tr>
-    <td>Responsiveness</td>
-    <td>Barely or not responsive</td>
-    <td>Some responsiveness issues on all screens </td>
-    <td>Works well on small, medium & large screens</td>
-    <td>Responsiveness perfect on all screens: good text size, good hit areas, etc.</td>
-  </tr>
-  <tr>
-    <td>Content</td>
-    <td>Feels incomplete</td>
-    <td>Not enough content to be a complete infographic </td>
-    <td>Has enough content to represent a whole infographic</td>
-    <td>Lots of extra, detailed content</td>
-  </tr>
-  <tr>
-    <td>Design & usability</td>
-    <td>Poorly designed, rushed, not accessible</td>
-    <td>Non-matching components, poor type choices, poor accessibility</td>
-    <td>Good design, great type, but poor accessibility </td>
-    <td>Cohesive design, perfect content size & placement, great accessibility</td>
-  </tr>
-  <tr>
-    <td>Professionalism</td>
-    <td>Incomplete and prototype-y, looks cheap</td>
-    <td>Feels about halfway complete, could use more effort</td>
-    <td>Has the completeness of a real website, a client would pay for it</td>
-    <td>Good enough for Thomas to steal it an call it his own</td>
-  </tr>
-</table>
-
----
 
 ## Hand in
 
-Drop this folder into your Markbot application. Make sure to fix all the errors. And submit to Canvas using Markbot.
+Drop this folder into your Markbot application. Make sure to fix all the errors. And submit online.

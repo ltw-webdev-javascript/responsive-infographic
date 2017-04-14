@@ -1,16 +1,40 @@
-repo: "responsive-infographic"
-canvasCourse: "467503"
-canvasAssignment: "4198987"
+repo: 'responsive-infographic'
 
 naming: true
-commits: 15
+restrictFileTypes: true
+liveWebsite: true
+
+git:
+  numCommits: 15
+  allCommitted: true
+  allSynced: true
 
 html:
-  - path: "index.html"
+  - path: 'index.html'
     valid: true
     bestPractices: true
+    outline: true
+    has:
+      - 'link[href="css/main.css"]'
+      - 'script[src*="jquery"]'
+      - 'script[src="js/main.js"]'
 
 css:
-  - path: "css/main.css"
+  - path: 'css/main.css'
     valid: true
     bestPractices: true
+    search:
+      - 'animation'
+      - 'transition'
+      - '@keyframes'
+
+js:
+  - path: 'js/main.js'
+    valid: true
+    bestPractices: true
+    search:
+      - ['\$\(', 'Expected to see jQuery used']
+
+functionality:
+  - path: 'index.html'
+    noErrors: true
